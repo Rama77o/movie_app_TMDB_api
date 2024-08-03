@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie_app_OMDB_api/static/css/main.1100b3db.css",
+    "main.js": "/movie_app_OMDB_api/static/js/main.3dcadbf6.js",
+    "static/js/787.d3befce1.chunk.js": "/movie_app_OMDB_api/static/js/787.d3befce1.chunk.js",
+    "index.html": "/movie_app_OMDB_api/index.html",
+    "main.1100b3db.css.map": "/movie_app_OMDB_api/static/css/main.1100b3db.css.map",
+    "main.3dcadbf6.js.map": "/movie_app_OMDB_api/static/js/main.3dcadbf6.js.map",
+    "787.d3befce1.chunk.js.map": "/movie_app_OMDB_api/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1100b3db.css",
+    "static/js/main.3dcadbf6.js"
+  ]
+}
